@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+production+AI+chatbots+with+LangChain+%2B+Azure+OpenAI;FastAPI+%7C+React+%7C+LLM+Agent+Workflows;Turning+prompt+specs+into+shipped%2C+observable+systems;Open+to+AI+Engineering+%2F+Backend+Engineering+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+production+AI+chatbots+with+LangChain;FastAPI+%7C+React+%7C+LLM+Agent+Workflows;Turning+prompt+specs+into+shipped+systems;Open+to+AI+%2F+Backend+Engineering+roles" alt="Typing SVG" /> </div> <br/>
 
 </div>
 
@@ -128,25 +128,6 @@ A desktop app for Ubuntu/Linux that lets users launch applications by drawing cu
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajendravaddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendravaddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendravaddi&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajendravaddi&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" width="100%"/>
-
-</div>
 
 <br/>
 
