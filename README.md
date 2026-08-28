@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+production+AI+chatbots+with+LangChain;FastAPI+%7C+React+%7C+LLM+Agent+Workflows;Turning+prompt+specs+into+shipped+systems;Open+to+AI+%2F+Backend+Engineering+roles" alt="Typing SVG" /> </div> <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+production+AI+chatbots+with+LangChain;FastAPI+%7C+React+%7C+LLM+Agent+Workflows;Turning+prompt+specs+into+shipped+systems;Open+to+AI+%2F+Backend+Engineering+roles" alt="Typing SVG" />
 
 </div>
 
@@ -21,18 +21,18 @@
 
 ```yaml
 name: Rajendra Vaddi
-role: AI Engineering Intern @ Hitloop
 education: B.Tech CSE, RGUKT RK Valley (2022 – 2026) | CGPA: 8.83
 location: Proddatur, Andhra Pradesh, India
+past_role: AI Engineering Intern @ Hitloop (10 months) — production LLM chatbot systems
 looking_for: [Software Development, Backend Engineering, AI Engineering]
-currently:
-  - Shipping LLM-driven pipelines in production (LangChain + Azure OpenAI)
+skills_in_practice:
+  - Shipping LLM-driven pipelines (LangChain + Azure OpenAI)
   - Building async, observable backend systems with FastAPI + Celery + Redis
   - Working AI-native — Cursor, GitHub Copilot & Google Antigravity in daily workflow
 fun_fact: "Learned React from scratch mid-internship and shipped a full chatbot UI with it"
 ```
 
-I'm a Computer Science graduate with **10 months of industry experience** building full-stack, AI-powered production systems — from FastAPI backends and React frontends to LLM-driven pipelines with prompt engineering and observability baked in. I care about **shipping reliable systems**, not just working demos — structured outputs, guardrails, logging, and tracing are part of how I build, not an afterthought.
+I'm a Computer Science graduate with **10 months of industry experience** building full-stack, AI-powered production systems — from FastAPI backends and React frontends to LLM-driven pipelines with prompt engineering and observability baked in. I care about **shipping reliable systems**, not just working demos — structured outputs, guardrails, logging, and tracing are part of how I build, not an afterthought. Currently looking for my next opportunity as an **AI Engineer** or **Backend Engineer**.
 
 <br/>
 
@@ -128,6 +128,7 @@ A desktop app for Ubuntu/Linux that lets users launch applications by drawing cu
 </td>
 </tr>
 </table>
+
 
 <br/>
 
